@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Sindh, Pakistan"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "987654321"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@abc.com"
+  }
+]
